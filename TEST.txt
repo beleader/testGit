@@ -5,3 +5,4 @@ testFile4
 testFile5
 testFile6
 Test12
+Test22
